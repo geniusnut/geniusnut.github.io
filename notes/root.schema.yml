@@ -11,4 +11,6 @@
     stub: false
     custom: {}
     parent: root
-    children: []
+    children:
+        - rust
+        - python

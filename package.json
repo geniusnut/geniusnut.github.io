@@ -11,6 +11,6 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "@dendronhq/dendron-cli": "^0.124.2"
+    "@dendronhq/dendron-cli": "^0.122.0"
   }
 }

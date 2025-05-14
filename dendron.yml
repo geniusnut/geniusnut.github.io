@@ -82,6 +82,7 @@ preview:
     enableKatex: true
     automaticallyShowPreview: false
 publishing:
+    siteUrl: https://geniusnut.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
